@@ -11,5 +11,7 @@ else:
 
 #incorporating a break statement
 while family_age_sum < 200:
-    print("Family aged summed is %s "family_age_sum)
+    print("Family aged summed is %s "%family_age_sum)
     family_age_sum+= 1
+    if family_age_sum == 190:
+        break
