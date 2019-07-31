@@ -1,6 +1,6 @@
 #Creating my first while loop
 
-num_family=4
+num_family=10
 family_age_sum=185
 
 while num_family > 0:
