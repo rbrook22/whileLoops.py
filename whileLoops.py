@@ -17,4 +17,3 @@ while family_age_sum < 200:
         break
 
 #need to create a another loop
-#update something
