@@ -15,5 +15,3 @@ while family_age_sum < 200:
     family_age_sum+= 1
     if family_age_sum == 190:
         break
-
-#need to create a another loop
